@@ -1,0 +1,49 @@
+ITA:
+
+Materiale necessario: 
+1. Arduino;
+2. Led;
+3. Resistore;
+4. 5 Jumpers;
+5. Breadboard;
+6. Potenziometro
+
+Composizione: 
+
+1. Inserisco il led all'interno della Breadboard; 
+2. Collego il primo jumper al GND e al piede basso del led; 
+3. Collego il secondo jumper dal pinLed alla breadboard; 
+4. Inserisco il resistore in moda da collegare piede alto del led con il secondo jumper;
+5. Inserisco il potenziometro sulla breadboard; 
+6. Collego il terzo jumper dal GND al piede destro del potenziometro; 
+7. Collego il quarto jumper dai 5V al piede sinistro; 
+8. Collego il quinto jumper da A0 al piede centrale; 
+
+N.B
+Nella breadboard la corrente passa per orizzontale quindi lavoro sulla stessa riga.
+
+---------------------------------------------------
+
+ENG: 
+
+Necessary material:
+1. Arduino;
+2. Led;
+3. Resistor;
+4. 5 Jumpers;
+5. Breadboard;
+6. Potentiometer
+
+Composition:
+
+1. I insert the led inside the Breadboard;
+2. I connect the first jumper to GND and to the lower foot of the led;
+3. I connect the second jumper from pinLed to the breadboard;
+4. I insert the resistor so that the high foot of the led is connected with the second jumper;
+5. I insert the potentiometer on the breadboard;
+6. I connect the third jumper from GND to the right foot of the potentiometer;
+7. I connect the fourth jumper from 5V to the left foot;
+8. I connect the fifth jumper from A0 to the central foot;
+
+N.B
+In the breadboard the current passes for horizontal so I work on the same line.
