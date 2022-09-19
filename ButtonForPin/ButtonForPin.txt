@@ -1,0 +1,53 @@
+ITA:
+
+Materiale necessario: 
+1. Arduino;
+2. Led;
+3. 2 Resistori;
+4. 6 Jumpers;
+5. Breadboard;
+6. Pulsante;
+
+Composizione: 
+
+1. Inserisco il led all'interno della Breadboard; 
+2. Collego il primo jumper tra il GND e il piede basso del led; 
+3. Collego il secondo jumper dal pinLed alla breadboard; 
+4. Inserisco il resistore in moda da collegare piede alto del led con il secondo jumper(in linea);
+5. Inserisco il pulsante nella Breadboard; 
+6. Collego il terzo jumper dal buttonPin al pulsante;
+7. Collego il quarto jumper dal pulsante alla breadboard; 
+8. Collego in linea il quinto jumper dal 5V al quarto jumper;
+9. Inserisco un piede del resistore in linea con gli ultimi due jumper; 
+10. Collego il sesto jumper al GND con l'altro piede del resistore; 
+
+N.B
+Nella breadboard la corrente passa per orizzontale quindi lavoro sulla stessa riga.
+
+----------------------------------------------
+
+ENG:
+
+Necessary material:
+1. Arduino;
+2. Led;
+3. 2 Resistors;
+4. 6 Jumpers;
+5. Breadboard;
+6. Button;
+
+Composition:
+
+1. I insert the led inside the Breadboard;
+2. I connect the first jumper between the GND and the low foot of the led;
+3. I connect the second jumper from pinLed to the breadboard;
+4. I insert the resistor so that the high foot of the led is connected with the second jumper (in line);
+5. I insert the button in the Breadboard;
+6. I connect the third jumper from the buttonPin to the button;
+7. I connect the fourth jumper from the button to the breadboard;
+8. I connect the fifth jumper from 5V to the fourth jumper online;
+9. I insert the resistor in line with the last two jumpers;
+10. I connect the sixth jumper to GND with the other foot of the resistor;
+
+N.B
+In the breadboard the current passes for horizontal so I work on the same line.
